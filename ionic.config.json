@@ -1,0 +1,7 @@
+{
+  "name": "CRUDAngular",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
